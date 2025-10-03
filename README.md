@@ -11,4 +11,4 @@ very Easy!
 
 3.Enter `bash install.sh` or `sh install.sh`.
 
-4.and done! enjoy micro editor!
+4.and done! enjoy!
