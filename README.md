@@ -1,14 +1,14 @@
 # Nano Is Fuck!
-Not joke. Real Fuck!
+NIF! is Nano editor Remover.
+only termux works.
 
 # install 
-very Easy!
+1.Open Termux.
 
-1.Open ur Terminals(Termux).
+2.Copy this `git clone https://github.com/Flexuto/Nano-is-Fuck-.git` .
 
-2.Copy and Paste my codes
-`git clone https://github.com/Flexuto/Nano-is-Fuck-.git`.
+3.Run `bash install.sh` or `sh install.sh`.
 
-3.Enter `bash install.sh` or `sh install.sh`.
+4.and done. Enjoy it!
 
-4.and done! enjoy!
+
